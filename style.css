@@ -1,0 +1,42 @@
+:root{
+    --orange : #EC682C;
+    --darkblue : #4B40C5;
+}
+*::after,
+*::before {
+  box-sizing: border-box; 
+}
+body {
+    max-width: 1440vw;
+    height: 100%;
+    margin: 0;
+    font-family: "Poppins", sans-serif; /*Copied "CSS rules to specify families"from GOOGLE FONT
+    if Poppins didn't work San-serif will work */
+  }
+header{
+    width: 1440px;
+    height: 927px;
+    background-image: url(/images/unsplash_ELf8M_YWRTYheaderBackground\ \(1\).png);
+}
+.Orange{
+    background-color: var(--orange);
+    width: 107px;
+    height: 40px;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: 400; !important
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1140px;
+    position: absolute;
+    left: 55px;
+}
+
+    display: flex;
+    align-items:center;
+    gap: 80px;
+    margin: 0px;
+}

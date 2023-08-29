@@ -1,0 +1,10 @@
+Fonts=>
+    Peralta - 400
+    Poppins -700, 400, 500, 600
+    Montserrat - 400
+
+Colors => 
+There are many color we call the main color by predefining it.
+#4B40C5;
+#EC682C;
+
