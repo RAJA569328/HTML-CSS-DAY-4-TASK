@@ -7,4 +7,3 @@ Colors =>
 There are many color we call the main color by predefining it.
 #4B40C5;
 #EC682C;
-
